@@ -1,6 +1,8 @@
 .navbar-top{
-    height: 50px;
+    height: 40px;
     background-color: black;
+    justify-content: end;
+    margin-right: 5px;
 }
 
 
@@ -17,5 +19,39 @@
 
 /* First-section */
 .first-section{
-    height: 700px;
+    height: 370px;
+}
+
+
+
+
+
+
+/* Second */
+
+.second-section{
+    height: 90px;
+}
+
+.row{
+    display: flex;
+}
+
+
+
+
+
+/* TERZ */
+
+.terza-section{
+    height: 578px;
+}
+
+
+
+
+/* QUART */
+
+.quarta-section{
+    height: 145px;
 }
