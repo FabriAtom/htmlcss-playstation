@@ -19,22 +19,49 @@
 
 /* First-section */
 .first-section{
-    height: 370px;
+    height: 600px; 
+    background-image:url(/img/jumbo-bg.png);
+    background-size: cover;
 }
 
+.sec-1{
+    padding-top: 300px;
+    padding-left: 40px;
+
+}
+
+.button{
+    border-radius: 15px;
+    color: white;
+    background-color: orange; 
+}
+
+.padd-bott{
+    margin-top: 60px;
+    padding: 10px;
+}
+.padd-title{
+    padding-bottom: 12px;
+}
 
 
 
 
 
 /* Second */
-
 .second-section{
-    height: 90px;
+    /* height: 90px; */
 }
 
 .row{
     display: flex;
+}
+
+.col{
+}
+
+.img-sect-2{
+    border-radius: 15px;
 }
 
 
@@ -44,11 +71,19 @@
 /* TERZ */
 
 .terza-section{
-    height: 578px;
+    height: 600px;
 }
 
+.play{
+    text-decoration: none;
+}
 
-
+.row-terza{
+    text-align: center;
+}
+.col-3{
+    width: 50%;
+}
 
 /* QUART */
 
