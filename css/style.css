@@ -34,6 +34,7 @@
     border-radius: 15px;
     color: white;
     background-color: orange; 
+    padding: 5px;
 }
 
 .padd-bott{
@@ -57,9 +58,6 @@
     display: flex;
 }
 
-.col{
-}
-
 .img-sect-2{
     border-radius: 15px;
 }
@@ -67,26 +65,165 @@
 
 
 
-
 /* TERZ */
 
 .terza-section{
-    height: 600px;
+    height: 700px;
 }
 
 .play{
     text-decoration: none;
+    padding-bottom: 5px;
+}
+
+.paragraph-sec-3{
+    padding-top: 20px;
+    font-size: 20px;
 }
 
 .row-terza{
     text-align: center;
+    padding-top: 68px;
 }
 .col-3{
     width: 50%;
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+.col-4{
+    width: 40%;
+    padding-top: 190px;
+}
+
+
+.paragraph-col-4{
+    padding-bottom:20px;
+}
+
+.img-col-3{
+
+    
+}
+
+.button-4{
+    padding: 3px;
+    border-radius: 15px;
+    color: white;
+    background-color: blue;
+
 }
 
 /* QUART */
 
 .quarta-section{
     height: 145px;
+    margin-top: 42px;
+}
+
+.img-sec-4{
+}
+
+.col-sec-4{
+    justify-content: space-around;
+}
+
+.margin-b{
+    border-bottom: 2px solid green;
+}
+
+h3{
+    font-size: 12px;
+}
+
+
+
+/* Quinta-sec */
+
+.quinta-section{
+    height: 600px; 
+    background-image:url(/img/it-takes-two-hero-banner-desktop.jpg);
+     background-size:cover;  /* ** */
+    margin-top: 30px;
+}
+
+.img-sec-5{
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+.title-sec-5{
+    font-size: 35px;
+    margin-left: 30px;
+    margin-top: 23px;
+    margin-bottom: 30px;
+}
+.paragraph-sec-5{
+    margin-left: 30px;
+    margin-bottom: 27px;
+}
+
+.button-sec-5{
+    margin-left: 30px;
+}
+
+
+/* Sesta-sec */
+
+.sesta-section{
+    height: 600px;
+    background-color: rgb(31, 31, 31);
+}
+
+.img-sec-6{
+    border-radius: 15px;
+}
+
+.title-small-sec-6{
+    font-size: 20px;
+    padding-bottom: 13px;
+    margin-top: -5px;
+}
+
+.title{
+    margin-left: 30px;
+    margin-bottom: 11px;
+    padding-top: 15px;
+}
+
+h6{
+    margin-top: 7px;
+    font-size:small;
+}
+
+.row-marg{
+    margin-left: 20px;
+}
+
+.row-row{
+    padding-top: 30px;
+}
+
+
+
+
+/* Sett-sec */
+
+.settima-section{
+    height: 460px;
+}
+
+.button{
+    border-radius: 15px;
+    background-color: blue;
+    color: white;
+    padding:5px;
+}
+
+.title-sec-7{
+    margin-top: 55px;
+}
+
+.sec-7{
+    margin-bottom: 21px;
 }
