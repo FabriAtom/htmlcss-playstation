@@ -5,11 +5,14 @@
     margin-right: 5px;
 }
 
-
-
-
-
-
+.button-nav{
+    border-radius: 15px;
+    color: white;
+    background-color: grey; 
+    padding: 3px;
+    margin-left: 5px;
+    margin-right: 27px;
+}
 
 
 /* main */
@@ -119,7 +122,9 @@
 .quarta-section{
     height: 145px;
     margin-top: 42px;
+    margin-bottom: 50px;
 }
+
 
 .img-sec-4{
 }
@@ -211,11 +216,12 @@ h6{
 
 .settima-section{
     height: 460px;
+    margin-bottom: 45px;
 }
 
 .button{
     border-radius: 15px;
-    background-color: blue;
+    background-color: rgb(45, 100, 230);
     color: white;
     padding:5px;
 }
@@ -226,4 +232,133 @@ h6{
 
 .sec-7{
     margin-bottom: 21px;
+}
+
+
+
+
+/* Ott--sec */
+
+.ottava-section{
+    height: 400px;
+    background-color: rgb(190, 188, 187);
+    margin-top: 45px;
+    margin-bottom: 47px;
+}
+
+.esplora-butt{
+    padding: 5px;
+    color:rgb(45, 100, 230);
+    background-color: white;
+    border-radius: 15px;
+    margin-left: 30px;
+    margin-top: 22px;
+}
+
+.img-sec-8{
+   width: 546px;
+}
+
+.img-logo-8{
+    margin-top: 80px;
+    margin-left: 30px;
+}
+
+
+.margin-paragraph-8{
+    margin-left: 30px;
+    margin-top: 23px;
+}
+
+
+
+
+/* Nona-sec */
+
+.nona-section{
+    height: 550px;
+}
+
+.img-col-9{
+    margin-right: 15px;
+}
+
+.title-9{
+    margin-bottom: 20px;
+}
+
+.paragraph-9{
+    margin-bottom: 40px;
+}
+
+
+
+/* Dec-sec */ 
+
+.decima-section{
+    /* height: 300px; */
+    background-color: rgb(22, 28, 59);
+}
+
+.img-10{
+    margin-left: 45px;
+}
+
+.button-10{
+    background-color: white;
+    color: black;
+    border-radius: 20px;
+    padding: 6px;
+}
+
+.marg-10{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+#img-10{
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+
+.paragraph-10{
+    margin-bottom: 1.25rem;
+}
+
+
+
+/* Undi-sec */
+
+.undi-section{
+    height: 350px;
+}
+
+
+.logo-marg{
+    margin-top: 44px;
+    margin-right: 15px;
+}
+
+.title-10{
+    margin-top: 50px;
+}
+
+
+
+/* Footer */
+
+
+.foot{
+    height: 500px;
+    background-color: rgb(0, 67, 156);
+}
+
+#logo-foot{
+    margin-top: 85px;
+    margin-left: 40px;
+}
+
+
+.list-foot{
+    text-decoration: none;
 }
