@@ -23,7 +23,7 @@
 /* First-section */
 .first-section{
     height: 600px; 
-    background-image:url(/img/jumbo-bg.png);
+    background-image:url(../img/jumbo-bg.png);
     background-size: cover;
 }
 
@@ -147,7 +147,7 @@ h3{
 
 .quinta-section{
     height: 600px; 
-    background-image:url(/img/it-takes-two-hero-banner-desktop.jpg);
+    background-image:url(../img/it-takes-two-hero-banner-desktop.jpg);
      background-size:cover;  /* ** */
     margin-top: 30px;
 }
